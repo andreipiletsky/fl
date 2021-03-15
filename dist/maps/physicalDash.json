@@ -1,0 +1,640 @@
+[
+  {
+    "type": "eks",
+    "data": [
+      {"chartName": "НПВ", "typeOfData": "%", "data": [{"pv": 86, "npv": 14}]},
+      {
+        "chartName":  "Скорость строительства скважин",
+        "typeOfData": "сут/1000м",
+        "data":       [
+          {
+            "period": "Январь",
+            "data":   [
+              {"type": "ННС", "plan": 7.06431, "fact": 4.71514},
+              {"type": "ГС", "plan": 18.8213, "fact": 13.7481}
+            ]
+          },
+          {
+            "period": "Март",
+            "data":   [
+              {"type": "ННС", "plan": 18.3756, "fact": 6.515},
+              {"type": "ГС", "plan": 15.1378, "fact": 14.974}
+            ]
+          },
+          {
+            "period": "Февраль",
+            "data":   [
+              {"type": "ННС", "plan": 9.08269, "fact": 6.25255},
+              {"type": "ГС", "plan": 16.768, "fact": 71.2721}
+            ]
+          },
+          {
+            "period": "Апрель",
+            "data":   [
+              {"type": "ННС", "plan": 9.83958, "fact": 5.59452},
+              {"type": "ГС", "plan": 21.365, "fact": 16.9912}
+            ]
+          },
+          {
+            "period": "Май",
+            "data":   [
+              {"type": "ННС", "plan": 6.94718, "fact": 4.54937},
+              {"type": "ГС", "plan": 17.9034, "fact": 40.0524}
+            ]
+          },
+          {
+            "period": "Июнь",
+            "data":   [
+              {"type": "ННС", "plan": 7.19046, "fact": 6.46923},
+              {"type": "ГС", "plan": 18.2989, "fact": 9.9853}
+            ]
+          },
+          {
+            "period": "Июль",
+            "data":   [
+              {"type": "ННС", "plan": 7.06431, "fact": 18.7266},
+              {"type": "ГС", "plan": 21.7876, "fact": 13.4923}
+            ]
+          },
+          {
+            "period": "Август",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "chartName":  "Количество бригад бурения",
+        "typeOfData": "бригады",
+        "data":       [
+          {"period": "Январь", "plan": 30, "fact": 60},
+          {"period": "Февраль", "plan": 35, "fact": 61},
+          {"period": "Март", "plan": 37, "fact": 63},
+          {"period": "Апрель", "plan": 38, "fact": 64},
+          {"period": "Май", "plan": 36, "fact": 59},
+          {"period": "Июнь", "plan": 30, "fact": 54},
+          {"period": "Июль", "plan": 20, "fact": 2}
+        ]
+      },
+      {"chartName": "Количество бригад освоения", "typeOfData": "бригады", "data": []},
+      {"chartName": "Количество введенных скважин", "typeOfData": "скважины", "data": []},
+      {"chartName": "Количество скважин законченных строительством", "typeOfData": "скважины", "data": []},
+      {
+        "chartName":  "Количество скважин законченных бурением",
+        "typeOfData": "скважины",
+        "data":       [
+          {"period": "Январь", "plan": 19, "fact": 32},
+          {"period": "Февраль", "plan": 20, "fact": 31},
+          {"period": "Март", "plan": 19, "fact": 50},
+          {"period": "Апрель", "plan": 40, "fact": 58},
+          {"period": "Май", "plan": 29, "fact": 52},
+          {"period": "Июнь", "plan": 29, "fact": 39},
+          {"period": "Июль", "plan": 20, "fact": 2}
+        ]
+      },
+      {
+        "chartName":  "Продолжительность строительства скважин",
+        "typeOfData": "сутки",
+        "data":       [
+          {
+            "period": "Март",
+            "data":   [
+              {"type": "ННС", "plan": 48, "fact": 18},
+              {"type": "ГС", "plan": 46, "fact": 62}
+            ]
+          },
+          {
+            "period": "Июнь",
+            "data":   [
+              {"type": "ННС", "plan": 19, "fact": 18},
+              {"type": "ГС", "plan": 48, "fact": 35}
+            ]
+          },
+          {
+            "period": "Июль",
+            "data":   [
+              {"type": "ННС", "plan": 18, "fact": 20},
+              {"type": "ГС", "plan": 57, "fact": 27}
+            ]
+          },
+          {
+            "period": "Январь",
+            "data":   [
+              {"type": "ННС", "plan": 18, "fact": 15},
+              {"type": "ГС", "plan": 49, "fact": 42}
+            ]
+          },
+          {
+            "period": "Апрель",
+            "data":   [
+              {"type": "ННС", "plan": 26, "fact": 14},
+              {"type": "ГС", "plan": 58, "fact": 59}
+            ]
+          },
+          {
+            "period": "Май",
+            "data":   [
+              {"type": "ННС", "plan": 18, "fact": 11},
+              {"type": "ГС", "plan": 47, "fact": 127}
+            ]
+          },
+          {
+            "period": "Февраль",
+            "data":   [
+              {"type": "ННС", "plan": 24, "fact": 19},
+              {"type": "ГС", "plan": 46, "fact": 48}
+            ]
+          },
+          {
+            "period": "Август",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "chartName":  "Продолжительность бурения скважин",
+        "typeOfData": "сутки",
+        "data":       [
+          {
+            "period": "Март",
+            "data":   [
+              {"type": "ННС", "plan": 48, "fact": 20},
+              {"type": "ГС", "plan": 46, "fact": 84}
+            ]
+          },
+          {
+            "period": "Июнь",
+            "data":   [
+              {"type": "ННС", "plan": 19, "fact": 18},
+              {"type": "ГС", "plan": 48, "fact": 37}
+            ]
+          },
+          {
+            "period": "Июль",
+            "data":   [
+              {"type": "ННС", "plan": 18, "fact": 20},
+              {"type": "ГС", "plan": 57, "fact": 27}
+            ]
+          },
+          {
+            "period": "Январь",
+            "data":   [
+              {"type": "ННС", "plan": 18, "fact": 16},
+              {"type": "ГС", "plan": 49, "fact": 66}
+            ]
+          },
+          {
+            "period": "Апрель",
+            "data":   [
+              {"type": "ННС", "plan": 26, "fact": 17},
+              {"type": "ГС", "plan": 58, "fact": 90}
+            ]
+          },
+          {
+            "period": "Май",
+            "data":   [
+              {"type": "ННС", "plan": 18, "fact": 14},
+              {"type": "ГС", "plan": 47, "fact": 181}
+            ]
+          },
+          {
+            "period": "Февраль",
+            "data":   [
+              {"type": "ННС", "plan": 24, "fact": 26},
+              {"type": "ГС", "plan": 46, "fact": 88}
+            ]
+          },
+          {
+            "period": "Август",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "chartName":  "Продолжительность освоения скважин",
+        "typeOfData": "сутки",
+        "data":       [
+          {
+            "period": "Март",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          },
+          {
+            "period": "Июнь",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          },
+          {
+            "period": "Июль",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          },
+          {
+            "period": "Январь",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          },
+          {
+            "period": "Апрель",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          },
+          {
+            "period": "Май",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          },
+          {
+            "period": "Февраль",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          },
+          {
+            "period": "Август",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "chartName":  "Коэфицент аварийности",
+        "typeOfData": "шт/1000м",
+        "data":       [
+          {"period": "Январь", "LastYear": 0.321963, "thisYear": 0.29784},
+          {"period": "Февраль", "LastYear": 0.29656, "thisYear": 0.305204},
+          {"period": "Март", "LastYear": 0.294497, "thisYear": 0.310971},
+          {"period": "Апрель", "LastYear": 0.291739, "thisYear": 0.315357},
+          {"period": "Май", "LastYear": 0.290034, "thisYear": 0.310758},
+          {"period": "Июнь", "LastYear": 0.324548, "thisYear": 0.572145},
+          {"period": "Июль", "LastYear": 0.318789, "thisYear": 0},
+          {"period": "Август", "LastYear": 0.298246, "thisYear": 0}
+        ]
+      },
+      {
+        "chartName":  "Коэфицент тяжести аварий",
+        "typeOfData": "ч/1000м",
+        "data":       [
+          {"period": "Январь", "LastYear": 1.68452, "thisYear": 1.52511},
+          {"period": "Февраль", "LastYear": 1.39487, "thisYear": 1.90509},
+          {"period": "Март", "LastYear": 1.46163, "thisYear": 1.25345},
+          {"period": "Апрель", "LastYear": 1.92291, "thisYear": 1.185},
+          {"period": "Май", "LastYear": 1.29137, "thisYear": 1.01718},
+          {"period": "Июнь", "LastYear": 1.1726, "thisYear": 1.02427},
+          {"period": "Июль", "LastYear": 0.96191, "thisYear": 0},
+          {"period": "Август", "LastYear": 0.994488, "thisYear": 0}
+        ]
+      }
+    ]
+  },
+  {
+    "type": "zbs",
+    "data": [
+      {"chartName": "НПВ", "typeOfData": "%", "data": [{"pv": 74, "npv": 26}]},
+      {
+        "chartName":  "Скорость строительства скважин",
+        "typeOfData": "сут/1000м",
+        "data":       [
+          {
+            "period": "Январь",
+            "data":   [
+              {"type": "ННС", "plan": 7.06431, "fact": 4.71514},
+              {"type": "ГС", "plan": 18.8213, "fact": 13.7481}
+            ]
+          },
+          {
+            "period": "Март",
+            "data":   [
+              {"type": "ННС", "plan": 18.3756, "fact": 6.515},
+              {"type": "ГС", "plan": 15.1378, "fact": 14.974}
+            ]
+          },
+          {
+            "period": "Февраль",
+            "data":   [
+              {"type": "ННС", "plan": 9.08269, "fact": 6.25255},
+              {"type": "ГС", "plan": 16.768, "fact": 71.2721}
+            ]
+          },
+          {
+            "period": "Апрель",
+            "data":   [
+              {"type": "ННС", "plan": 9.83958, "fact": 5.59452},
+              {"type": "ГС", "plan": 21.365, "fact": 16.9912}
+            ]
+          },
+          {
+            "period": "Май",
+            "data":   [
+              {"type": "ННС", "plan": 6.94718, "fact": 4.54937},
+              {"type": "ГС", "plan": 17.9034, "fact": 40.0524}
+            ]
+          },
+          {
+            "period": "Июнь",
+            "data":   [
+              {"type": "ННС", "plan": 7.19046, "fact": 6.46923},
+              {"type": "ГС", "plan": 18.2989, "fact": 9.9853}
+            ]
+          },
+          {
+            "period": "Июль",
+            "data":   [
+              {"type": "ННС", "plan": 7.06431, "fact": 18.7266},
+              {"type": "ГС", "plan": 21.7876, "fact": 13.4923}
+            ]
+          },
+          {
+            "period": "Август",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "chartName":  "Количество бригад бурения",
+        "typeOfData": "бригады",
+        "data":       [
+          {"period": "Январь", "plan": 9, "fact": 12},
+          {"period": "Февраль", "plan": 9, "fact": 15},
+          {"period": "Март", "plan": 10, "fact": 17},
+          {"period": "Апрель", "plan": 11, "fact": 20},
+          {"period": "Май", "plan": 19, "fact": 24},
+          {"period": "Июнь", "plan": 18, "fact": 24},
+          {"period": "Июль", "plan": 11, "fact": 2}
+        ]
+      },
+      {
+        "chartName":  "Количество бригад освоения",
+        "typeOfData": "бригады",
+        "data":       [
+          {"period": "Март", "plan": 0, "fact": 1},
+          {"period": "Май", "plan": 0, "fact": 1},
+          {"period": "Июнь", "plan": 0, "fact": 1}
+        ]
+      },
+      {"chartName": "Количество введенных скважин", "typeOfData": "скважины", "data": []},
+      {
+        "chartName":  "Количество скважин законченных строительством",
+        "typeOfData": "скважины",
+        "data":       [
+          {"period": "Март", "plan": 0, "fact": 1},
+          {"period": "Май", "plan": 0, "fact": 3},
+          {"period": "Июнь", "plan": 0, "fact": 1}
+        ]
+      },
+      {
+        "chartName":  "Количество скважин законченных бурением",
+        "typeOfData": "скважины",
+        "data":       [
+          {"period": "Январь", "plan": 7, "fact": 5},
+          {"period": "Февраль", "plan": 7, "fact": 3},
+          {"period": "Март", "plan": 12, "fact": 8},
+          {"period": "Апрель", "plan": 9, "fact": 9},
+          {"period": "Май", "plan": 16, "fact": 13},
+          {"period": "Июнь", "plan": 18, "fact": 13},
+          {"period": "Июль", "plan": 11, "fact": 2}
+        ]
+      },
+      {
+        "chartName":  "Продолжительность строительства скважин",
+        "typeOfData": "сутки",
+        "data":       [
+          {
+            "period": "Март",
+            "data":   [
+              {"type": "ННС", "plan": 16, "fact": 20},
+              {"type": "ГС", "plan": 44, "fact": 30}
+            ]
+          },
+          {
+            "period": "Июнь",
+            "data":   [
+              {"type": "ННС", "plan": 26, "fact": 31},
+              {"type": "ГС", "plan": 29, "fact": 26}
+            ]
+          },
+          {
+            "period": "Июль",
+            "data":   [
+              {"type": "ННС", "plan": 59, "fact": 0},
+              {"type": "ГС", "plan": 34, "fact": 46}
+            ]
+          },
+          {
+            "period": "Январь",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 22},
+              {"type": "ГС", "plan": 38, "fact": 42}
+            ]
+          },
+          {
+            "period": "Апрель",
+            "data":   [
+              {"type": "ННС", "plan": 14, "fact": 26},
+              {"type": "ГС", "plan": 53, "fact": 25}
+            ]
+          },
+          {
+            "period": "Май",
+            "data":   [
+              {"type": "ННС", "plan": 16, "fact": 32},
+              {"type": "ГС", "plan": 27, "fact": 31}
+            ]
+          },
+          {
+            "period": "Февраль",
+            "data":   [
+              {"type": "ННС", "plan": 34, "fact": 22},
+              {"type": "ГС", "plan": 16, "fact": 22}
+            ]
+          },
+          {
+            "period": "Август",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "chartName":  "Продолжительность бурения скважин",
+        "typeOfData": "сутки",
+        "data":       [
+          {
+            "period": "Март",
+            "data":   [
+              {"type": "ННС", "plan": 16, "fact": 25},
+              {"type": "ГС", "plan": 44, "fact": 53}
+            ]
+          },
+          {
+            "period": "Июнь",
+            "data":   [
+              {"type": "ННС", "plan": 26, "fact": 30},
+              {"type": "ГС", "plan": 29, "fact": 26}
+            ]
+          },
+          {
+            "period": "Июль",
+            "data":   [
+              {"type": "ННС", "plan": 59, "fact": 0},
+              {"type": "ГС", "plan": 34, "fact": 30}
+            ]
+          },
+          {
+            "period": "Январь",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 39},
+              {"type": "ГС", "plan": 38, "fact": 51}
+            ]
+          },
+          {
+            "period": "Апрель",
+            "data":   [
+              {"type": "ННС", "plan": 14, "fact": 33},
+              {"type": "ГС", "plan": 53, "fact": 43}
+            ]
+          },
+          {
+            "period": "Май",
+            "data":   [
+              {"type": "ННС", "plan": 16, "fact": 31},
+              {"type": "ГС", "plan": 27, "fact": 37}
+            ]
+          },
+          {
+            "period": "Февраль",
+            "data":   [
+              {"type": "ННС", "plan": 34, "fact": 41},
+              {"type": "ГС", "plan": 16, "fact": 83}
+            ]
+          },
+          {
+            "period": "Август",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "chartName":  "Продолжительность освоения скважин",
+        "typeOfData": "сутки",
+        "data":       [
+          {
+            "period": "Март",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 1}
+            ]
+          },
+          {
+            "period": "Июнь",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 1}
+            ]
+          },
+          {
+            "period": "Июль",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          },
+          {
+            "period": "Январь",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          },
+          {
+            "period": "Апрель",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          },
+          {
+            "period": "Май",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 3},
+              {"type": "ГС", "plan": 0, "fact": 3}
+            ]
+          },
+          {
+            "period": "Февраль",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          },
+          {
+            "period": "Август",
+            "data":   [
+              {"type": "ННС", "plan": 0, "fact": 0},
+              {"type": "ГС", "plan": 0, "fact": 0}
+            ]
+          }
+        ]
+      },
+      {
+        "chartName":  "Коэфицент аварийности",
+        "typeOfData": "шт/1000м",
+        "data":       [
+          {"period": "Январь", "LastYear": 0.321963, "thisYear": 0.29784},
+          {"period": "Февраль", "LastYear": 0.29656, "thisYear": 0.305204},
+          {"period": "Март", "LastYear": 0.294497, "thisYear": 0.310971},
+          {"period": "Апрель", "LastYear": 0.291739, "thisYear": 0.315357},
+          {"period": "Май", "LastYear": 0.290034, "thisYear": 0.310758},
+          {"period": "Июнь", "LastYear": 0.324548, "thisYear": 0.572145},
+          {"period": "Июль", "LastYear": 0.318789, "thisYear": 0},
+          {"period": "Август", "LastYear": 0.298246, "thisYear": 0}
+        ]
+      },
+      {
+        "chartName":  "Коэфицент тяжести аварий",
+        "typeOfData": "ч/1000м",
+        "data":       [
+          {"period": "Январь", "LastYear": 1.68452, "thisYear": 1.52511},
+          {"period": "Февраль", "LastYear": 1.39487, "thisYear": 1.90509},
+          {"period": "Март", "LastYear": 1.46163, "thisYear": 1.25345},
+          {"period": "Апрель", "LastYear": 1.92291, "thisYear": 1.185},
+          {"period": "Май", "LastYear": 1.29137, "thisYear": 1.01718},
+          {"period": "Июнь", "LastYear": 1.1726, "thisYear": 1.02427},
+          {"period": "Июль", "LastYear": 0.96191, "thisYear": 0},
+          {"period": "Август", "LastYear": 0.994488, "thisYear": 0}
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+@import "params.scss";
+
+body,
+html {
+    height: 95%;
+}
+
+.app-loading {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+}
+
+.app-loading .loader {
+    border-top: none;
+    box-shadow: inset 0 0 0 1em $secondary-color;
+    font-size: 8px;
+    height: 10em;
+    position: relative;
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+    width: 10em;
+
+    &-info {
+        display: block !important;
+        font-size: 14px;
+        margin-top: 80px;
+        max-width: 300px;
+        text-align: center;
+    }
+
+    &::before {
+        -webkit-animation: load2 2s infinite ease 1.5s;
+        animation: load2 2s infinite ease 1.5s;
+        background: $background-color;
+        border-radius: 10.2em 0 0 10.2em;
+        content: "";
+        height: 10.2em;
+        left: -0.1em;
+        position: absolute;
+        top: -0.1em;
+        -webkit-transform-origin: 5.2em 5.1em;
+        transform-origin: 5.2em 5.1em;
+        width: 5.2em;
+    }
+
+    &::after {
+        -webkit-animation: load2 2s infinite ease;
+        animation: load2 2s infinite ease;
+        background: $background-color;
+        border-radius: 0 10.2em 10.2em 0;
+        content: "";
+        height: 10.2em;
+        left: 5.1em;
+        position: absolute;
+        top: -0.1em;
+        -webkit-transform-origin: 0 5.1em;
+        transform-origin: 0 5.1em;
+        width: 5.2em;
+    }
+}
+
+@-webkit-keyframes load2 {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes load2 {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}

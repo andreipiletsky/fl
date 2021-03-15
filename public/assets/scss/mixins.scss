@@ -1,0 +1,125 @@
+@mixin overflow-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+@mixin disabled-button {
+    background-color: $disabled-button;
+    color: $background-color;
+    pointer-events: none;
+}
+
+@mixin disabled-input {
+    background-color: $surface-color !important;
+    color: #939192 !important;
+    cursor: default;
+    filter: none;
+    font-family: $font-family-primary;
+    opacity: 1;
+    pointer-events: none;
+}
+
+@mixin disabled-text-icon {
+    color: $disabled-button;
+    cursor: default;
+    filter: none;
+    opacity: 1;
+    pointer-events: none;
+}
+
+@mixin button-primary {
+    background-color: $primary-color;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: $background-color;
+    padding: 6px 26px 7px 25px;
+    text-shadow: none;
+
+    svg path {
+        fill: $background-color;
+    }
+
+    span {
+        padding: 0 !important;
+    }
+
+    &:enabled:hover {
+        background-color: $primary-hover-color;
+        border-color: $primary-hover-color;
+        box-shadow: none;
+    }
+
+    &:enabled:focus {
+        box-shadow: none;
+    }
+
+    &:enabled:active {
+        background-color: $primary-active-color;
+    }
+}
+
+@mixin button-secondary {
+    background-color: $surface-color;
+    border: 1px solid $input-border-color;
+    color: $primary-color;
+
+    svg path {
+        fill: $input-border-color;
+    }
+
+    &:enabled:hover,
+    &:enabled:focus {
+        background-color: $secondary-hover-color;
+        border-color: $input-border-color;
+        box-shadow: none;
+        color: $primary-color;
+    }
+
+    &:enabled:active {
+        background-color: $secondary-active-color;
+    }
+}
+
+@mixin error-indicator {
+    background-image: url("/assets/images/danger.svg");
+    cursor: pointer;
+    height: $warn-icon-size;
+    visibility: visible;
+    width: $warn-icon-size;
+}
+
+@mixin error {
+    border: 1px solid $error-color;
+}
+
+@mixin active-checkbox {
+    background-color: transparent;
+    border-color: $checkbox-border-color;
+    color: $primary-color;
+}
+
+@mixin placeholder {
+    color: rgba(0, 0, 0, 0.5) !important;
+}
+
+@mixin shadow-footer {
+    box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.21), 0 0 4px rgba(0, 0, 0, 0.12);
+    position: relative;
+    z-index: 10001;
+}
+
+@mixin multiline-item {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+    -ms-user-select: none;
+    user-select: none;
+    width: 100%;
+
+    &__subheader {
+        font-size: 11px;
+        opacity: 0.5;
+    }
+}

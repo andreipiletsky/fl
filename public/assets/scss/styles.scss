@@ -1,0 +1,113 @@
+@import "params.scss";
+@import "mixins.scss";
+
+body,
+html,
+.p-component {
+    font-family: $font-family-primary !important;
+    font-size: 15px !important;
+}
+
+.table {
+    padding: 0;
+
+    &__cell {
+        @include overflow-text;
+
+        &--center {
+            align-items: center;
+            display: flex;
+            justify-content: center;
+        }
+    }
+
+    &__label-content {
+        @include overflow-text;
+
+        display: block;
+    }
+
+    &__paginator {
+        align-items: center;
+        color: $primary-color;
+        display: flex;
+        font-size: 14px;
+        font-weight: normal;
+        height: 33px;
+        line-height: 18px;
+        padding-right: 15px;
+        position: absolute;
+        top: 100%;
+    }
+
+    &__input {
+        @include overflow-text;
+
+        background-color: transparent;
+        border: none;
+        color: $primary-color;
+        font-family: $font-family-primary;
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 22px;
+        padding: 8px;
+        width: 100%;
+
+        &:focus {
+            outline: none;
+        }
+    }
+
+    &__col {
+        &--xxs {
+            width: 25%;
+        }
+
+        &--xs {
+            width: 40%;
+        }
+
+        &--s {
+            width: 50%;
+        }
+
+        &--m {
+            width: 75%;
+        }
+
+        &--l {
+            width: 100%;
+        }
+    }
+
+    &__empty-container {
+        align-items: center;
+        background: $surface-color;
+        display: flex;
+        height: 70px;
+        justify-content: center;
+        width: 100%;
+    }
+
+    &--empty {
+        color: $primary-color;
+        font-size: 13px;
+        font-weight: 600;
+        opacity: 0.5;
+    }
+
+    &__action-icon {
+        display: inline-block;
+        text-align: center;
+    }
+
+    &__row-edit {
+        display: flex;
+        justify-content: space-around;
+
+        & > button {
+            background-color: transparent;
+            border: none;
+        }
+    }
+}

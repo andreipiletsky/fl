@@ -1,0 +1,174 @@
+{
+  "0": {
+    "year":    {
+      "data": {
+        "npv":  {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "Хантос", "value": 130},
+            {"label": "Муравленко", "value": 240},
+            {"label": "ННГ", "value": 180},
+            {"label": "Оренбург", "value": 300},
+            {"label": "Восток", "value": 210}
+          ]
+        },
+        "subs": {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "КНГ-Сервис", "value": 132},
+            {"label": "Газпром бурение", "value": 108},
+            {"label": "OOO КНГ-Сервис", "value": 60},
+            {"label": "OOO Газпром бурение", "value": 120},
+            {"label": "НГ-Сервис", "value": 72},
+            {"label": "Газпром-бурение", "value": 75},
+            {"label": "OOO НГ-Сервис", "value": 54},
+            {"label": "КНГ Сервис", "value": 63},
+            {"label": "OOO Газпром-бурение", "value": 100}
+          ]
+        }
+      }
+    },
+    "quarter": {
+      "data": {
+        "npv":  {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "Хантос", "value": 60},
+            {"label": "Муравленко", "value": 32},
+            {"label": "ННГ", "value": 52},
+            {"label": "Оренбург", "value": 75},
+            {"label": "Восток", "value": 45}
+          ]
+        },
+        "subs": {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "КНГ-Сервис", "value": 36},
+            {"label": "Газпром бурение", "value": 44},
+            {"label": "OOO КНГ-Сервис", "value": 20},
+            {"label": "OOO Газпром бурение", "value": 48},
+            {"label": "НГ-Сервис", "value": 36},
+            {"label": "Газпром-бурение", "value": 28},
+            {"label": "OOO НГ-Сервис", "value": 24},
+            {"label": "КНГ Сервис", "value": 32},
+            {"label": "OOO Газпром-бурение", "value": 40}
+          ]
+        }
+      }
+    },
+    "month":   {
+      "data": {
+        "npv":  {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "Хантос", "value": 13},
+            {"label": "Муравленко", "value": 8},
+            {"label": "ННГ", "value": 15},
+            {"label": "Оренбург", "value": 11},
+            {"label": "Восток", "value": 18}
+          ]
+        },
+        "subs": {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "КНГ-Сервис", "value": 11},
+            {"label": "Газпром бурение", "value": 9},
+            {"label": "OOO КНГ-Сервис", "value": 5},
+            {"label": "OOO Газпром бурение", "value": 12},
+            {"label": "НГ-Сервис", "value": 6},
+            {"label": "Газпром-бурение", "value": 8},
+            {"label": "OOO НГ-Сервис", "value": 9},
+            {"label": "КНГ Сервис", "value": 7},
+            {"label": "OOO Газпром-бурение", "value": 10}
+          ]
+        }
+      }
+    }
+  },
+  "1": {
+    "year":    {
+      "data": {
+        "npv":  {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "Хантос", "value": 210},
+            {"label": "Муравленко", "value": 300},
+            {"label": "ННГ", "value": 180},
+            {"label": "Оренбург", "value": 240},
+            {"label": "Восток", "value": 130}
+          ]
+        },
+        "subs": {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "КНГ-Сервис", "value": 108},
+            {"label": "Газпром бурение", "value": 132},
+            {"label": "OOO КНГ-Сервис", "value": 72},
+            {"label": "OOO Газпром бурение", "value": 100},
+            {"label": "НГ-Сервис", "value": 60},
+            {"label": "Газпром-бурение", "value": 63},
+            {"label": "OOO НГ-Сервис", "value": 54},
+            {"label": "КНГ Сервис", "value": 75},
+            {"label": "OOO Газпром-бурение", "value": 120}
+          ]
+        }
+      }
+    },
+    "quarter": {
+      "data": {
+        "npv":  {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "Хантос", "value": 45},
+            {"label": "Муравленко", "value": 75},
+            {"label": "ННГ", "value": 52},
+            {"label": "Оренбург", "value": 32},
+            {"label": "Восток", "value": 60}
+          ]
+        },
+        "subs": {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "КНГ-Сервис", "value": 44},
+            {"label": "Газпром бурение", "value": 29},
+            {"label": "OOO КНГ-Сервис", "value": 36},
+            {"label": "OOO Газпром бурение", "value": 40},
+            {"label": "НГ-Сервис", "value": 31},
+            {"label": "Газпром-бурение", "value": 39},
+            {"label": "OOO НГ-Сервис", "value": 37},
+            {"label": "КНГ Сервис", "value": 43},
+            {"label": "OOO Газпром-бурение", "value": 40}
+          ]
+        }
+      }
+    },
+    "month":   {
+      "data": {
+        "npv":  {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "Хантос", "value": 18},
+            {"label": "Муравленко", "value": 11},
+            {"label": "ННГ", "value": 15},
+            {"label": "Оренбург", "value": 8},
+            {"label": "Восток", "value": 13}
+          ]
+        },
+        "subs": {
+          "typeOfData": " ",
+          "data":       [
+            {"label": "КНГ-Сервис", "value": 12},
+            {"label": "Газпром бурение", "value": 11},
+            {"label": "OOO КНГ-Сервис", "value": 12},
+            {"label": "OOO Газпром бурение", "value": 10},
+            {"label": "НГ-Сервис", "value": 5},
+            {"label": "Газпром-бурение", "value": 7},
+            {"label": "OOO НГ-Сервис", "value": 4},
+            {"label": "КНГ Сервис", "value": 9},
+            {"label": "OOO Газпром-бурение", "value": 6}
+          ]
+        }
+      }
+    }
+  }
+}

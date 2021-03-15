@@ -1,0 +1,1046 @@
+{
+	"DOID": "65BA3794-6B62-4ABC-9393-FBEC2687FEDD",
+	"plansPerYear" : [
+		{
+			"year": "2014",
+			"plans": [
+				{
+					"ppUID": "65BA3794-6B62-4ABC-9393",
+					"vName": "БП",
+					"vNum": "1.01",
+					"accept": 1,
+					"typePP": "eb",
+					"ppp": [
+						{
+							"month": 1,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 2,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 3,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 4,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 5,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 6,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 7,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 8,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 9,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 10,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 11,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 12,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						}
+					]
+				},{
+					"ppUID": "65BA3794-6B62-4ABC-9394",
+					"vName": "ГФО-2",
+					"vNum": "1.02",
+					"accept": 2,
+					"ppp": [
+						{
+							"month": 1,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 2,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 3,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 4,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 5,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 6,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 7,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+							"drDurationNns": 18,
+							"drDurationGs": 16
+						},{
+							"month": 8,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 9,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 10,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 11,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 12,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						}
+					]
+				}
+			]
+		},{
+			"year": "2015",
+			"plans": [
+				{
+					"ppUID": "65BA3794-6B62-4ABC-9396",
+					"vName": "БП",
+					"vNum": "1.03",
+					"accept": 1,
+					"ppp": [
+						{
+							"month": 1,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 2,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 3,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 4,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 5,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 6,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 7,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 8,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 9,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 10,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 11,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 12,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						}
+					]
+				},{
+					"ppUID": "65BA3794-6B62-4ABC-9398",
+					"vName": "ГФО-3",
+					"vNum": "1.06",
+					"accept": 2,
+					"ppp": [
+						{
+							"month": 1,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 2,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 3,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 4,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 5,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 6,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 7,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 8,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 9,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 10,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 11,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 12,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						}
+					]
+				},{
+					"ppUID": "65BA3794-6B62-4ABC-9400",
+					"vName": "ГФО-4",
+					"vNum": "1.06",
+					"accept": 0,
+					"ppp": [
+						{
+							"month": 1,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 2,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 3,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 4,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 5,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 6,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 7,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 8,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 9,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 10,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 11,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 12,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						}
+					]
+				}
+			]
+		},{
+			"year": "2016",
+			"plans": [
+				{
+					"ppUID": "65BA3794-6B62-4ABC-9401",
+					"vName": "БП",
+					"vNum": "1.01",
+					"accept": 0,
+					"ppp": [
+						{
+							"month": 1,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 2,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 3,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 4,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 5,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 6,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 7,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 8,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 9,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 10,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 11,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 12,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						}
+					]
+				},{
+					"ppUID": "65BA3794-6B62-4ABC-9502",
+					"vName": "БП_Петров",
+					"vNum": "1.02",
+					"accept": 3,
+					"ppp": [
+						{
+							"month": 1,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 2,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 3,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 4,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 5,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 6,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 7,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 8,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 9,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 10,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 11,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 12,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						}
+					]
+				},{
+					"ppUID": "65BA3794-6B62-4ABC-9503",
+					"vName": "ГФО-1",
+					"vNum": "1.06",
+					"accept": 4,
+					"ppp": [
+						{
+							"month": 1,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 2,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 3,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 4,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 5,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 6,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 7,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 8,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 9,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 10,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 11,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						},{
+							"month": 12,
+							"excNns": 1000,
+							"excGs": 1250,
+							"numWNns": 320,
+							"numWGs": 231,
+							"brigDrNns": 123,
+							"brigDrGs": 98,
+              "drDurationNns": 18,
+              "drDurationGs": 16
+						}
+					]
+				}
+			]
+		}
+	]
+}

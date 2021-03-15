@@ -1,0 +1,32 @@
+[
+  {
+    "id":       "C595159E-E644-4EA9-85A4-B6B461DDC3A3",
+    "location": {"latitude": "64.787997", "longitude": "74.543016"},
+    "labelDirection": "right",
+    "barWidth": 170
+  },
+  {
+    "id":       "466D752E-577E-4CAA-BBA6-F5B5DCB60661",
+    "location": {"latitude": "62.194693", "longitude": "75.643463"},
+    "labelDirection": "right",
+    "barWidth": 150
+  },
+  {
+    "id":       "994CFE78-6DA9-4C8C-B64D-E5BD615C1F30",
+    "location": {"latitude": "60.998100", "longitude": "69.025837"},
+    "labelDirection": "left",
+    "barWidth": 120
+  },
+  {
+    "id":       "EC6E7C71-C15A-40DE-ACBB-831A819B2005",
+    "location": {"latitude": "59.167482", "longitude": "81.272250"},
+    "labelDirection": "right",
+    "barWidth": 120
+  },
+  {
+    "id":       "65BA3794-6B62-4ABC-9393-FBEC2687FEDD",
+    "location": {"latitude": "51.761627", "longitude": "55.100020"},
+    "labelDirection": "right",
+    "barWidth": 145
+  }
+]

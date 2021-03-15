@@ -1,0 +1,85 @@
+{
+  "Objects": [
+    {
+      "ObjId": "466d752e-577e-4caa-bba6-f5b5dcb60661",
+      "ProfileType": 0,
+      "DaysPer1000M": 29.277188328912466
+    },
+    {
+      "ObjId": "65ba3794-6b62-4abc-9393-fbec2687fedd",
+      "ProfileType": 1,
+      "DaysPer1000M": 110.33619456366236
+    },
+    {
+      "ObjId": "994cfe78-6da9-4c8c-b64d-e5bd615c1f30",
+      "ProfileType": 1,
+      "DaysPer1000M": 28.825519665021687
+    },
+    {
+      "ObjId": "c595159e-e644-4ea9-85a4-b6b461ddc3a3",
+      "ProfileType": 0,
+      "DaysPer1000M": 30.272425937435262
+    },
+    {
+      "ObjId": "65ba3794-6b62-4abc-9393-fbec2687fedd",
+      "ProfileType": 0,
+      "DaysPer1000M": 27.872961482327557
+    },
+    {
+      "ObjId": "994cfe78-6da9-4c8c-b64d-e5bd615c1f30",
+      "ProfileType": 0,
+      "DaysPer1000M": 56.32514375326712
+    },
+    {
+      "ObjId": "466d752e-577e-4caa-bba6-f5b5dcb60661",
+      "ProfileType": 1,
+      "DaysPer1000M": 29.807204464738706
+    }
+  ],
+  "Contractors": [
+    {
+      "ObjId": "04b531d4-b32f-4ac1-a6eb-8ec28d221f81",
+      "DaysPer1000M": 16.421885087153
+    },
+    {
+      "ObjId": "6d9e3786-6502-45e6-a9c6-079d7b6a7315",
+      "DaysPer1000M": 86.34641873278237
+    },
+    {
+      "ObjId": "00000000-0000-0000-0000-000000000000",
+      "DaysPer1000M": 38.645257826887665
+    },
+    {
+      "ObjId": "182b9851-b683-4477-b3f9-0dc6245b7d56",
+      "DaysPer1000M": 27.556906766448396
+    },
+    {
+      "ObjId": "2df8d676-6c04-45d8-96e8-2aa433071229",
+      "DaysPer1000M": 23.64475201845444
+    },
+    {
+      "ObjId": "7a850839-b1b7-4600-a5d5-7931d0b845fd",
+      "DaysPer1000M": 22.09288858003243
+    },
+    {
+      "ObjId": "15cb7860-431b-495e-a8b6-e3c59d7a8f91",
+      "DaysPer1000M": 17.761136712749614
+    },
+    {
+      "ObjId": "66ec8e6e-ae8b-4d01-9c32-a6487ca20bcc",
+      "DaysPer1000M": 38.66292232671543
+    },
+    {
+      "ObjId": "a748c37e-a040-4a92-b249-edd5045233d8",
+      "DaysPer1000M": 46.20315581854043
+    },
+    {
+      "ObjId": "8b595530-dc62-4b16-aabc-4dbc6f2107c9",
+      "DaysPer1000M": 73.80174291938998
+    },
+    {
+      "ObjId": "3eabe397-0450-4bbc-8847-13d32069529d",
+      "DaysPer1000M": 21.83895771038018
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "dateOfLastModify": "1",
+  "data": [
+    {
+      "id": "C595159E-E644-4EA9-85A4-B6B461DDC3A3",
+      "location": {
+        "latitude": "64.787997",
+        "longitude": "74.543016"
+      },
+      "labelDirection": "right",
+      "barWidth": 520
+    },
+    {
+      "id": "89C7F1D8-0444-4461-9376-5B5185CCB6CE",
+      "location": {
+        "latitude": "67.4137",
+        "longitude": "72.5351"
+      },
+      "labelDirection": "left",
+      "barWidth": 250
+    },
+    {
+      "id": "466D752E-577E-4CAA-BBA6-F5B5DCB60661",
+      "location": {
+        "latitude": "63.126",
+        "longitude": "75.273"
+      },
+      "labelDirection": "right",
+      "barWidth": 520
+    },
+    {
+      "id": "994CFE78-6DA9-4C8C-B64D-E5BD615C1F30",
+      "location": {
+        "latitude": "60.998100",
+        "longitude": "69.025837"
+      },
+      "labelDirection": "left",
+      "barWidth": 235
+    },
+    {
+      "id": "EC6E7C71-C15A-40DE-ACBB-831A819B2005",
+      "location": {
+        "latitude": "56.295",
+        "longitude": "84.25654"
+      },
+      "labelDirection": "right",
+      "barWidth": 230
+    },
+    {
+      "id": "65BA3794-6B62-4ABC-9393-FBEC2687FEDD",
+      "location": {
+        "latitude": "51.761627",
+        "longitude": "55.100020"
+      },
+      "labelDirection": "right",
+      "barWidth": 250
+    },
+    {
+      "id": "82C40D33-9031-4DD8-A0DD-780556FE550B",
+      "location": {
+        "latitude": "52.286387",
+        "longitude": "104.280660"
+      },
+      "labelDirection": "right",
+      "barWidth": 250
+    },
+    {
+      "id": "DA33D4C5-FD85-49BF-8CF7-D7C89F051611",
+      "location": {
+        "latitude": "68.2480621",
+        "longitude": "80.0731161"
+      },
+      "labelDirection": "right",
+      "barWidth": 280
+    },
+    {
+      "id": "5D4B4EB7-BBB3-4672-82C4-0FD63EB9EED9",
+      "location": {
+        "latitude": "61.3480621",
+        "longitude": "76.5731161"
+      },
+      "labelDirection": "right",
+      "barWidth": 200
+    }
+
+  ]
+}
