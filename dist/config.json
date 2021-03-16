@@ -1,7 +1,0 @@
-{
-    "protocol": "http://",
-    "host": "localhost:13031",
-    "path": "/api/",
-    "iframeUrl": "/wsreport/default.aspx",
-    "adminUrl": "http://localhost:13031/Default.aspx"
-}
